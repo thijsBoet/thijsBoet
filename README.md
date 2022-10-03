@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thijs Boet</h1>
 <h3 align="center">A passionate frontend developer from the Netherlands</h3>
 
-- 🌱 I’m currently learning **Django and Flask**
+- 👨‍💻 Some of my projects are available at [jsdev.nl](jsdev.nl)
 
-- 👨‍💻 All of my projects are available at [jsdev.nl](jsdev.nl)
-
-- 💬 Ask me about **React, TypeScript and Tailwind**
+- 💬 Ask me anything about **React, TypeScript and Tailwind**
 
 - 📫 How to reach me **m.boet@chello.nl**
 
